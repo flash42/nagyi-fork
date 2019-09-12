@@ -1,0 +1,5 @@
+https://www.alza.hu/43-lg-43lk5000pla-d5493323.htm
+https://www.arukereso.hu/led-tv-lcd-tv-plazma-tv-c3164/f:kepatlo=1;2,full-hd,hd-ready,ar=1;2/
+
+var alma = [];
+for (let i = 0; i < aColl.length; ++i) { const act = aColl[i]; if (act.text.match(/.*Ft-tól/)) { alma.push({ price: act.text}) } }

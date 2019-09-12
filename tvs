@@ -1,0 +1,4973 @@
+ARUKERESO
+https://www.arukereso.hu/Ajax.CategoryFilter.php?rt=31581016&cid=3164&pps[man]=&pps[pvid]=0&pps[pfs][]=ar%3D1%3B2&pps[pfs][]=raktaron&pps[pfs][]=kepatlo%3D1%3B2&pps[pfs][]=led-tv&pps[pfs][]=full-hd&pps[pfs][]=hd-ready&pps[sfid]=&pps[plid]=&pps[st]=&pps[start]=200&pps[order]=&pps[view]=&pps[pricedrop]=&_=1568303489768
+
+UPC
+https://www.upc.hu/televizio/keszulekek/mediaeszkozok
+
+break in: findKey
+temp1 = this.products
+      .filter(p => Number.parseInt(p.Year) >= 2018)
+      .map(p => ({ brand: p.Brand, title: p.title }))
+
+[
+  {
+    "brand": "HKC",
+    "title": "13M4"
+  },
+  {
+    "brand": "HKC",
+    "title": "13M4C"
+  },
+  {
+    "brand": "HKC",
+    "title": "16M4"
+  },
+  {
+    "brand": "HKC",
+    "title": "16M4C"
+  },
+  {
+    "brand": "HKC",
+    "title": "17H2"
+  },
+  {
+    "brand": "HKC",
+    "title": "17H2C"
+  },
+  {
+    "brand": "HKC",
+    "title": "20C1NB"
+  },
+  {
+    "brand": "HKC",
+    "title": "20C1NBD"
+  },
+  {
+    "brand": "hitachi",
+    "title": "22HE4001"
+  },
+  {
+    "brand": "philips",
+    "title": "22PFS5303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "22PFS5403/12"
+  },
+  {
+    "brand": "philips",
+    "title": "22PFT5303/12"
+  },
+  {
+    "brand": "finlux",
+    "title": "24-FHC-4760"
+  },
+  {
+    "brand": "HKC",
+    "title": "24C2NB"
+  },
+  {
+    "brand": "HKC",
+    "title": "24C2NBD"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24D1753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24D1754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24D1764DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24D3663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24D3754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24DM863DA"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24F501HB4T05"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HB4T65 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HB4T65 K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HE1000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HE2000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HE2001"
+  },
+  {
+    "brand": "hitachi",
+    "title": "24HE2003"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24L1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24L3863DG"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "24LE-M4900 Velden"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "24LE-M4950 Velden"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "24LE-N4900 Velden"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFS5303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFS5603/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFS5703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFS5863/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFT5303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFT5603/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PFT5703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PHS4304/12"
+  },
+  {
+    "brand": "philips",
+    "title": "24PHS4354/12"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1764DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1764DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W1863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24W3864DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24WM763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "24WM764DA"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "28LE-N4900 Gmunden"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "28LH-M4900 Gmunden"
+  },
+  {
+    "brand": "lg",
+    "title": "28TK430V-PZ"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1764DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W1863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "28W3863DA"
+  },
+  {
+    "brand": "finlux",
+    "title": "32-FFC-5660"
+  },
+  {
+    "brand": "HKC",
+    "title": "32C9A"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D1762DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D1764DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D3663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D3754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D3863DAQ"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32D3864DAQ"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32F501HB4T61"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32F501HB4T62 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32FK5HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4C01 L"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T01 B"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T02 B"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T61 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T61 K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T62 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HB4T62 K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE1000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE1810-FTR"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE2000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE3000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE4500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HE4500K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "32HL4001"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3864DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3866DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3869DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32L3869DAX"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "32LH-M5800"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "32LH-M5900 Salzburg"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "32LH-M5950"
+  },
+  {
+    "brand": "lg",
+    "title": "32LK500BPLA"
+  },
+  {
+    "brand": "lg",
+    "title": "32LK6100PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "32LK610BPLB"
+  },
+  {
+    "brand": "lg",
+    "title": "32LK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "32LM6300PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "32LM630BPLA"
+  },
+  {
+    "brand": "philips",
+    "title": "32PFS5603/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PFS5803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PFS5823/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PFS5863/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PFT5603/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHS4203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHS4503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHS4503/12M"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHT4203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHT4503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "32PHT4503/12M"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W1753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W1764DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W1764DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W1863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3753DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3753DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3754DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3864DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3869DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "32W3869DAX"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39D1763DG"
+  },
+  {
+    "brand": "hitachi",
+    "title": "39HB4T62 H"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39L3663DAL"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39L3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39W1763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39W1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "39W1863DA"
+  },
+  {
+    "brand": "HKC",
+    "title": "40F1"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HB4W62"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HB6T62 L"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HE3000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HE4001"
+  },
+  {
+    "brand": "hitachi",
+    "title": "40HE4002"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L1665DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L3663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L3869DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40L3869DAX"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "40LH-M5800"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "40LH-M5900 Liezen"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "40LH-M5950 Liezen"
+  },
+  {
+    "brand": "toshiba",
+    "title": "40V4863DG"
+  },
+  {
+    "brand": "finlux",
+    "title": "43-FUC-7061"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43F501HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43F52HK6000"
+  },
+  {
+    "brand": "HKC",
+    "title": "43F6"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43FK5HK6500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HB5T62 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK5W64 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6000W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6001"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6001W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6002"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6002W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6003W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK6500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HK7500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HL15W64"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HL7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HL8000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "43HL8000K"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L1863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L3863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L3869DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L3869DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43L3869DAX"
+  },
+  {
+    "brand": "lg",
+    "title": "43LK5000PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43LK5900PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43LK6100PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43LM6300PLA"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFS5503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFS5503/12M"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFS5803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFS5823/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFT4203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFT5503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PFT5503/12M"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6523/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6554/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6704/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6753/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS6814/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7304/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7334/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7354/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7363/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7373/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7383/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7393/12"
+  },
+  {
+    "brand": "philips",
+    "title": "43PUS7394/12"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43T6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43T6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5663DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5863DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U5863DGS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U6663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43U6863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6300LLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6300MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6300PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6400PLF"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6470PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6750PLD"
+  },
+  {
+    "brand": "lg",
+    "title": "43UK6950PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7000MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM71007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7100PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7300MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7390PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7400PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM74507LA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7450PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM76007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "43UM7600PLB"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V5863DG"
+  },
+  {
+    "brand": "jvc",
+    "title": "43V65LUA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V6763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V6763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "43V6863DG"
+  },
+  {
+    "brand": "hitachi",
+    "title": "48HB6W62 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "48HE4000"
+  },
+  {
+    "brand": "toshiba",
+    "title": "48L1863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "48L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "48L2863DG"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK5W64 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6000W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6001"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6001W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6002"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6002W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6003W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK6500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HK7500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HL15W64"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HL15W64 A"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HL7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "49HL8000"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L1763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L1863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L2863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L2863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L3663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L3863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49L3863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "49LK5900PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49LK6100PLB"
+  },
+  {
+    "brand": "philips",
+    "title": "49PUS6803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "49PUS7503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "49PUS7803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "49PUS8303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "49PUS8503/12"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK7900PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK8000PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK8100LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK8100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK8500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SK8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM82007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM8200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM86007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM8600PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM90007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "49SM9000PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49T6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49T6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U4663DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U4663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U5863DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U5863DGS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U7763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U7863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49U7863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6300LLB"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6300MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6300PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6400PLF"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK6470PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK7550LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK7550MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UK7550PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM7000MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM71007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM7100PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM73007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM7300MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM7390PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "49UM7400PLB"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V5863DAL"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V5863DAR"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V6763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V6763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "49V6863DG"
+  },
+  {
+    "brand": "finlux",
+    "title": "50-FUC-7061"
+  },
+  {
+    "brand": "hitachi",
+    "title": "50HB5W62 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "50HE4000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "50HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "50HK6500"
+  },
+  {
+    "brand": "schaub lorenz",
+    "title": "50LU-M9900"
+  },
+  {
+    "brand": "philips",
+    "title": "50PFS5503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PFS5803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PFS5823/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PFT4203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PFT5503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6523/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6554/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6704/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6753/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS6814/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7304/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7334/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7354/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7363/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7373/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7383/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7393/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7394/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS7504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "50PUS8804/12"
+  },
+  {
+    "brand": "toshiba",
+    "title": "50U5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "50U5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "50U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "50U6863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6300LLB"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6300MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6300PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6410PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6470PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6750PLD"
+  },
+  {
+    "brand": "lg",
+    "title": "50UK6950PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM7300MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM74507LA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM7450PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM7500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM7500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM76007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "50UM7600PLB"
+  },
+  {
+    "brand": "loewe",
+    "title": "55402Wxx type: bild 1.55"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55F52HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK5W64 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6000W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6001"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6001W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6002"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6002W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6003W"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK6W64 H"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HK7500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL15W64"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL15W64 A"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL8000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL8000K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "55HL9000G"
+  },
+  {
+    "brand": "lg",
+    "title": "55LK570V-ZA"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED854/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED903/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55OLED934/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6523/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6554/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6704/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6753/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS6814/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7304/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7334/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7354/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7363/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7373/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7383/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7393/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7394/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS7803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS8303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS8503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS8804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS9103/12"
+  },
+  {
+    "brand": "philips",
+    "title": "55PUS9104/12"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK7900PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK8000PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK8100LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK8100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK8500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK9500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SK9500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM82007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM8200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM86007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM8600PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM90107LA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM9010PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55SM9800PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55T6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55T6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U4663DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U4663DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U5863DAS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U5863DGS"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U7863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55U7863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6300LLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6300MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6300PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6400PLF"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6470PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6750PLD"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK6950PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK7550LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK7550MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UK7550PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7000MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM71007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7100PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7300MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7400PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM74507LA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7450PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7510PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM76107LB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7610PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "55UM7660PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V6763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V6763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V6863DAQ"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55V6863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55X9863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "55X9863DG"
+  },
+  {
+    "brand": "loewe",
+    "title": "57460xxx type: bild 3.65 oled"
+  },
+  {
+    "brand": "philips",
+    "title": "58PUS6203/12"
+  },
+  {
+    "brand": "philips",
+    "title": "58PUS6504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "58PUS7304/12"
+  },
+  {
+    "brand": "lg",
+    "title": "60UK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "60UM7000MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "60UM71007LB"
+  },
+  {
+    "brand": "lg",
+    "title": "60UM7100PLB"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HK6500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HK7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HK7500"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL15W64"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL15W64 A"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL15W64 B"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL7000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL7000 A"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8000"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8000 A"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8000 B"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8000K"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8000T"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL8500T"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65HL9000G"
+  },
+  {
+    "brand": "hitachi",
+    "title": "65OLED5W6"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED854/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED873/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED903/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED934/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED973/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65OLED984/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6523/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6554/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6703/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6704/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6753/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6804/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS6814/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS7303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS7304/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS7354/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS7363/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS7803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS8303/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS8503/12"
+  },
+  {
+    "brand": "philips",
+    "title": "65PUS9103/12"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK7900PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK8000PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK8100LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK8100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK8500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK9500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SK9500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM82007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM8200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM8500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM86007LA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM8600PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM90107LA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM9010PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65SM9800PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65U5863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65U5863DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65U6863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6300LLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6300MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6300PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6307-ZA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6309-ZA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6400PLF"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6470PLC"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6500LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6750PLD"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK6950PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK7550LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK7550MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UK7550PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7300MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7400PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM74507LA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7450PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7500MLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7510PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM76107LB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7610PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "65UM7660PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65V6763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65V6763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65X9763EE"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65X9863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "65X9863DG"
+  },
+  {
+    "brand": "philips",
+    "title": "70PUS6504/12"
+  },
+  {
+    "brand": "philips",
+    "title": "70PUS6704/12"
+  },
+  {
+    "brand": "philips",
+    "title": "70PUS7304/12"
+  },
+  {
+    "brand": "lg",
+    "title": "70UK6950PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "70UM7100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "70UM7450PLA"
+  },
+  {
+    "brand": "hitachi",
+    "title": "75HL17W64"
+  },
+  {
+    "brand": "hitachi",
+    "title": "75HL17W64 A"
+  },
+  {
+    "brand": "philips",
+    "title": "75PUS6754/12"
+  },
+  {
+    "brand": "philips",
+    "title": "75PUS7354/12"
+  },
+  {
+    "brand": "philips",
+    "title": "75PUS7803/12"
+  },
+  {
+    "brand": "philips",
+    "title": "75PUS8303/12"
+  },
+  {
+    "brand": "lg",
+    "title": "75SK8100PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "75SM8610PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "75SM9000PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "75SM9900PLA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "75U6763DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "75U6763DG"
+  },
+  {
+    "brand": "toshiba",
+    "title": "75U6863DA"
+  },
+  {
+    "brand": "toshiba",
+    "title": "75U6863DG"
+  },
+  {
+    "brand": "lg",
+    "title": "75UK6200PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "75UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "75UM7110PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "75UM7600PLB"
+  },
+  {
+    "brand": "lg",
+    "title": "86SM9000PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "86UK6500PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "86UM7600PLB"
+  },
+  {
+    "brand": "durabase",
+    "title": "DL32F249S4CW-W"
+  },
+  {
+    "brand": "durabase",
+    "title": "DL75U400SCW"
+  },
+  {
+    "brand": "hitachi",
+    "title": "F32L4001"
+  },
+  {
+    "brand": "HYUNDAI",
+    "title": "HLN24T111"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7000"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7003"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF7596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XF8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8196"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8305"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8388"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8396"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-43XG8399"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7000"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7003"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF7596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XF9005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8196"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8305"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8377"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8388"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8396"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG8399"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-49XG9005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55AF8"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55AF9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55AG8"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55AG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7000"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7003"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF7596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XF9005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8196"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-55XG9505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-60XF8305"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65AF8"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65AF9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65AG8"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65AG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7000"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7003"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF7596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XF9005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG7004"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG7005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG7077"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG7096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8196"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8577"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65XG9505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-65ZF9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-70XF8305"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XF9005"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG8096"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG8505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG8588"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG8599"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75XG9505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75ZF9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-75ZG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-77AG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-85XF8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-85XG8596"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-85XG9505"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-85ZG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KD-98ZG9"
+  },
+  {
+    "brand": "sony",
+    "title": "KDL-43RF450"
+  },
+  {
+    "brand": "sony",
+    "title": "KDL-43RF453"
+  },
+  {
+    "brand": "sony",
+    "title": "KDL-43RF455"
+  },
+  {
+    "brand": "sony",
+    "title": "KDL-43WF660"
+  },
+  {
+    "brand": "sony",
+    "title": "KDL-50WF660"
+  },
+  {
+    "brand": "telefunken",
+    "title": "L24H472F4CWV-W"
+  },
+  {
+    "brand": "telefunken",
+    "title": "L24H472F4CWV-WI"
+  },
+  {
+    "brand": "telefunken",
+    "title": "L28H272F4D-W"
+  },
+  {
+    "brand": "telefunken",
+    "title": "L49U405F4CWH"
+  },
+  {
+    "brand": "telefunken",
+    "title": "L55U405F4CWH"
+  },
+  {
+    "brand": "haier",
+    "title": "LDF32V280SW"
+  },
+  {
+    "brand": "haier",
+    "title": "LDF40V150S"
+  },
+  {
+    "brand": "haier",
+    "title": "LDF43V150S"
+  },
+  {
+    "brand": "haier",
+    "title": "LDF48V180S with IP"
+  },
+  {
+    "brand": "haier",
+    "title": "LDF50V500S  2018"
+  },
+  {
+    "brand": "haier",
+    "title": "LDH32V180S  WITH IP"
+  },
+  {
+    "brand": "haier",
+    "title": "LDU43V500S"
+  },
+  {
+    "brand": "haier",
+    "title": "LDU49V500S"
+  },
+  {
+    "brand": "haier",
+    "title": "LDU55V500S"
+  },
+  {
+    "brand": "haier",
+    "title": "LDU75V900S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEF32V200S  c"
+  },
+  {
+    "brand": "haier",
+    "title": "LEF55V600S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU43V300S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU43V800S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU49V300S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU49V800S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU55V300S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU55V800S"
+  },
+  {
+    "brand": "haier",
+    "title": "LEU65V300S"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VH52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VH52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VH52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VHQ52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VW52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VW52J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-24VW52K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V5000"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V5010"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V54LWA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V55LFA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V55LHA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32V55LWA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VF52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VF52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VF52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VF53I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VFQ52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH52J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH53I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VH54K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VHQ52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VW52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-32VW52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V5010"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V54JF"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V55LFA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V55LU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V55LWA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V65LUA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40V65LWA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40VF52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40VF52J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40VF52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40VF52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-40VU63M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43HW98U"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43V14JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43V55LFA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43V55LU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43V65LUA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VF52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VF52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VF52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VFQ52I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU10J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU10K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU14J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU20J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU20K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU53C"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU53J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU53K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU600"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63I  a"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63I  b"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU63M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73C"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU73T"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU83J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU83K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU83L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VU83M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-43VUQ63I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-48V5000"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-48VF52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-48VF52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49V14JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49V55LFA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49V55LU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49V65LUA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VF52L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VF52M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU10J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU10K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU14J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU20I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU20J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU20K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU53J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU53K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63I a"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63I b"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU63M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU73J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU73K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU73L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU73M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU73T"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU83A"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU83J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU83K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU83L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU83M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU850"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VU950"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-49VUQ63I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50V54JF"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50V73JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU600"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU63L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU63M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU73L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU73M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-50VU980"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55V14JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55V55LU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55V65LUA"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55V73JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU10J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU10K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU14J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU20J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU20K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU53J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU53K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU600"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63I a"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63I b"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU63M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU700"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU73J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU73K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU73L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU73M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU73T"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU83I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU83J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU83K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU83L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU83M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU850"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU950"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VU980"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-55VUQ63I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65V95LU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU10J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU10K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU20I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU20J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU20K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU83I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU83J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU83K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU83L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU83M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU850"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU93L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU93M"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VU980"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-65VUQ83I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75V19JU"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75VU10J"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75VU10K"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75VU83I"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75VU83L"
+  },
+  {
+    "brand": "jvc",
+    "title": "LT-75VU83M"
+  },
+  {
+    "brand": "ok",
+    "title": "ODL 32694F-TIB"
+  },
+  {
+    "brand": "ok",
+    "title": "ODL 32694F-TIW"
+  },
+  {
+    "brand": "ok",
+    "title": "OLE 24691H-TW 12V"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B8NLC"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B8SLC"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B97LA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55B9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C97LA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C98LB"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C9MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55C9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55E8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55E8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55E97LA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED55E9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B8NLC"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B8SLC"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B97LA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65B9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65C8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65C8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65C98LB"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65C9MLB"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65C9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65E8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65E8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65E97LA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65E9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65G8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65W8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED65W9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED77B9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED77C8LLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED77C9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED77W8PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED77W9PLA"
+  },
+  {
+    "brand": "lg",
+    "title": "OLED88Z9PLA"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE43Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE49LS03RAUXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE49Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE49Q67RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE49Q6FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE49Q70RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55LS03RAUXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q67RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q6FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q70RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q7FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q80RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q85RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q8CNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q8DNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q8FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q90RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q950RBTXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE55Q9FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65LS03RAUXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q67RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q6FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q70RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q7FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q80RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q85RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q8CNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q8DNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q8FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q900RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q90RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q950RBTXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE65Q9FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q6FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q70RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q7FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q85RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q8DNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q900RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q90RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q950RBTXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE75Q9FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE82Q60RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE82Q6FNATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE82Q70RATXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE82Q950RBTXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "QE85Q900RATXXH"
+  },
+  {
+    "brand": "RCA",
+    "title": "R32C9A"
+  },
+  {
+    "brand": "RCA",
+    "title": "R40F1"
+  },
+  {
+    "brand": "RCA",
+    "title": "RB32H1"
+  },
+  {
+    "brand": "RCA",
+    "title": "RB40F1"
+  },
+  {
+    "brand": "gogen",
+    "title": "TVF32A525T"
+  },
+  {
+    "brand": "gogen",
+    "title": "TVF32N525T"
+  },
+  {
+    "brand": "gogen",
+    "title": "TVF40A525T"
+  },
+  {
+    "brand": "gogen",
+    "title": "TVF48A525T"
+  },
+  {
+    "brand": "gogen",
+    "title": "TVH24N266T"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-24FS503E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-32FS400E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-32FS403E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-32FS500E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-32FS503E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-32FS503ETS"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FS400E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FS403E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FS500E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FS503E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FX603ETS"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-40FX730ETS"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX600E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX603E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX613E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX620E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX623E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-43FX633E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FS500E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FS503E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX600E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX603E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX613E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX620E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX623E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX633E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX700E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX740E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-49FX780E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX600E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX603E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX613E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX620E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX623E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX633E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX700E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX740E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FX780E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FZ800E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-55FZ950E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX600E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX603E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX620E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX623E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX700E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX740E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FX780E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FZ800E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-65FZ950E"
+  },
+  {
+    "brand": "panasonic",
+    "title": "TX-75FX780E"
+  },
+  {
+    "brand": "haier",
+    "title": "U49H7000"
+  },
+  {
+    "brand": "haier",
+    "title": "U55H7000"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE32N5302AKXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE40NU7112KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE40NU7122KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7022KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7122KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7442UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43NU7472UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43RU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43RU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43RU7412UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE43RU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7172UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7372UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7502UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7642UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7652UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU7672UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU8002TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU8042TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU8052TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49NU8072TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49RU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE49RU8002UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50NU7022KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50NU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50NU7442UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50NU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50NU7472UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50RU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50RU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50RU7412UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE50RU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7023KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7172UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7372UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7442UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7472UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7502UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7642UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7652UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU7672UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU8002TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU8042TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU8052TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU8072TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55NU8502TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55RU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55RU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55RU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55RU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE55RU8002UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE58NU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE58NU7172KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7022KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7172KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7372UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7442UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7472UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7502UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7642UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7652UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU7672UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU8002TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU8042TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU8052TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU8072TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65NU8502TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65RU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65RU7302KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65RU7402UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65RU7452UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE65RU8002UXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE75NU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE75NU7172KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE75NU8002TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE75RU7102KXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE82NU8002TXXH"
+  },
+  {
+    "brand": "samsung",
+    "title": "UE82RU8002UXXH"
+  }
+]
