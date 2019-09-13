@@ -1,15 +1,4 @@
-ARUKERESO
-https://www.arukereso.hu/Ajax.CategoryFilter.php?rt=31581016&cid=3164&pps[man]=&pps[pvid]=0&pps[pfs][]=ar%3D1%3B2&pps[pfs][]=raktaron&pps[pfs][]=kepatlo%3D1%3B2&pps[pfs][]=led-tv&pps[pfs][]=full-hd&pps[pfs][]=hd-ready&pps[sfid]=&pps[plid]=&pps[st]=&pps[start]=200&pps[order]=&pps[view]=&pps[pricedrop]=&_=1568303489768
-
-UPC
-https://www.upc.hu/televizio/keszulekek/mediaeszkozok
-
-break in: findKey
-temp1 = this.products
-      .filter(p => Number.parseInt(p.Year) >= 2018)
-      .map(p => ({ brand: p.Brand, title: p.title }))
-
-[
+{"upc": [
   {
     "brand": "HKC",
     "title": "13M4"
@@ -4970,4 +4959,4 @@ temp1 = this.products
     "brand": "samsung",
     "title": "UE82RU8002UXXH"
   }
-]
+]}
